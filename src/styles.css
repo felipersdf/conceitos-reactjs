@@ -16,6 +16,7 @@ div {
 div li {
   display: flex;
   align-items: center;
+  font: 18px sans-serif;
 }
 
 div li + li {
